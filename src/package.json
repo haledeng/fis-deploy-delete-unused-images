@@ -1,0 +1,21 @@
+{
+  "name": "fis-deploy-delete-unused-images",
+  "version": "0.0.2",
+  "description": "delete unuesd images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fis",
+    "deploy",
+    "unuesdImages"
+  ],
+  "author": {
+    "name": "helondeng",
+    "email": "dhlwust@163.com"
+  },
+  "license": "BSD",
+  "dependencies": {
+  }
+}
